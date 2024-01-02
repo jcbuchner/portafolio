@@ -1,15 +1,16 @@
 {
-  "homepage": "https://vincentt14.github.io",
-  "name": "portfolio2023",
+  "homepage": "https://www.buchner.cl",
+  "name": "portafolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d .dist",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d .next"
+    "lint": "next lint"
+    
   },
   "dependencies": {
     "@types/node": "20.4.5",

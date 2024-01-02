@@ -101,18 +101,7 @@ export const ProjectLists = () => {
           name: "React.js",
           logo: <SiReact className="text-white w-7 h-7" />,
         },
-        {
-          name: "Redux",
-          logo: <SiRedux className="text-white w-7 h-7" />,
-        },
-        {
-          name: "Jest",
-          logo: <SiJest className="text-white w-7 h-7" />,
-        },
-        {
-          name: "Bootstrap",
-          logo: <SiBootstrap className="text-white w-7 h-7" />,
-        },
+       
       ],
     },
     {
