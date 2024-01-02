@@ -98,8 +98,18 @@ export const ProjectLists = () => {
       img: "/project/proyecto3.jpg",
       stacks: [
         {
-          name: "React.js",
-          logo: <SiReact className="text-white w-7 h-7" />,
+          name: "HTML5",
+          logo: <BiLogoHtml5 className="text-white w-7 h-7" />,
+        },
+
+        {
+          name: "CSS3",
+          logo: <BiLogoCss3 className="text-white w-7 h-7" />,
+        },
+
+        {
+          name: "JavaScript",
+          logo: <BiLogoJavascript className="text-white w-7 h-7" />,
         },
        
       ],
@@ -112,13 +122,24 @@ export const ProjectLists = () => {
       link: "https://fondo-de-bikini.netlify.app/",
       img: "/project/proyecto4.jpg",
       stacks: [
+     
+     
         {
-          name: "React.js",
-          logo: <SiReact className="text-white w-7 h-7" />,
+          name: "HTML5",
+          logo: <BiLogoHtml5 className="text-white w-7 h-7" />,
         },
         {
           name: "CSS3",
           logo: <BiLogoCss3 className="text-white w-7 h-7" />,
+        },
+
+        {
+          name: "JavaScript",
+          logo: <BiLogoJavascript className="text-white w-7 h-7" />,
+        },
+        {
+          name: "React.js",
+          logo: <SiReact className="text-white w-7 h-7" />,
         },
       ],
     },
