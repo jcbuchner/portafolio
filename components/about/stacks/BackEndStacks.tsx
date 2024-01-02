@@ -5,29 +5,21 @@ import { SiLaravel, SiPhp, SiFirebase, SiPlanetscale, SiExpress, SiNestjs, SiPos
 
 export const BackEndStacks = () => {
   const stacks = [
-    {
+/*     {
       title: "Laravel",
       icon: <SiLaravel />,
     },
     {
       title: "PHP",
       icon: <SiPhp />,
-    },
-    {
+    }, */
+ /*    {
       title: "PostgreSQL",
       icon: <SiPostgresql />,
-    },
-    // {
-    //   title: "Express",
-    //   icon: <SiExpress />,
-    // },
-    // {
-    //   title: "Nest.js",
-    //   icon: <SiNestjs />,
-    // },
+    }, */
     {
-      title: "PlanetScale",
-      icon: <SiPlanetscale />,
+      title: "Express",
+      icon: <SiExpress />,
     },
     {
       title: "Firebase",

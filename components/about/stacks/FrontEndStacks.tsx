@@ -14,10 +14,10 @@ export const FrontEndStacks = () => {
       title: "React.js",
       icon: <SiReact />,
     },
-    {
+/*     {
       title: "Redux",
       icon: <SiRedux />,
-    },
+    }, */
     {
       title: "TypeScript",
       icon: <BiLogoTypescript />,

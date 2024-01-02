@@ -10,13 +10,14 @@ export const OtherStacks = () => {
       icon: <SiGithub />,
     },
     {
-      title: "Prisma",
-      icon: <SiPrisma />,
-    },
-    {
       title: "Vercel",
       icon: <SiVercel />,
     },
+/*     {
+      title: "Prisma",
+      icon: <SiPrisma />,
+    },
+   
     {
       title: "Jest",
       icon: <SiJest />,
@@ -28,7 +29,7 @@ export const OtherStacks = () => {
     {
       title: "Figma",
       icon: <SiFigma />,
-    },
+    }, */
   ];
 
   const onHandleClick = (title: string) => {
