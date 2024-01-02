@@ -120,7 +120,7 @@ export const ProjectLists = () => {
         "Sitio de un restaurante, su menú, horarios, información de contacto. Así mismo, se integrará un sistema para que los clientes puedan reservar..",
       title: "¿Visitar Restaurante? ☄️",
       link: "https://fondo-de-bikini.netlify.app/",
-      img: "/project/proyecto4.jpg",
+      img: "/project/proyecto-4.jpg",
       stacks: [
      
      
