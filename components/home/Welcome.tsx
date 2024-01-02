@@ -19,7 +19,7 @@ export const Welcome = () => {
             typeSpeed={70}
             deleteSpeed={70}
             delaySpeed={1500}
-            words={["Desarrollador Fullstack?", "Desarrollador React?", "Desarrollador JavaScript", "Diseñador Web?", "Analista de Ciberseguridad?"]}
+            words={["Desarrollador Fullstack?", "Desarrollador React?", "Desarrollador JavaScript?", "Diseñador Web?", "Analista de Ciberseguridad?"]}
           />
         </span>
       </h2>

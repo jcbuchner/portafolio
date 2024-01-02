@@ -1,10 +1,11 @@
-HolA
-
 
 Este es proyecto 6, mi portafolio, donde se usara React, next.js, Tailwind.
 
+Repositorio: https://github.com/jcbuchner/portafolio
 
-PRUEBA
+Demo: https://portafolio-chi-nine.vercel.app/
 
 
-cambio 6
+para ejecutar de manera local: 
+
+yarn dev
